@@ -5,7 +5,7 @@ using System.Web;
 using System.Web.Mvc;
 using System.Web.Routing;
 
-//稍微異動過資料，加個空白再刪掉，就會重啟網站。
+//稍微異動過資料，加個空白再刪掉，就會重啟網站。 
 namespace Module11_01
 {
     public class MvcApplication : System.Web.HttpApplication
